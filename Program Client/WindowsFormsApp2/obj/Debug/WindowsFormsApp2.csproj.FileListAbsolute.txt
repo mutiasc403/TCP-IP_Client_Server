@@ -1,0 +1,30 @@
+C:\Users\Mutia Chairunisa\source\repos\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csprojResolveAssemblyReference.cache
+C:\Users\Mutia Chairunisa\source\repos\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Form1.resources
+C:\Users\Mutia Chairunisa\source\repos\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Properties.Resources.resources
+C:\Users\Mutia Chairunisa\source\repos\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.GenerateResource.Cache
+C:\Users\Mutia Chairunisa\source\repos\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.CoreCompileInputs.cache
+C:\Users\Mutia Chairunisa\source\repos\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.exe.config
+C:\Users\Mutia Chairunisa\source\repos\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.exe
+C:\Users\Mutia Chairunisa\source\repos\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.pdb
+C:\Users\Mutia Chairunisa\source\repos\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.exe
+C:\Users\Mutia Chairunisa\source\repos\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.pdb
+C:\Users\Mutia Chairunisa\source\repos\Program Client\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.exe.config
+C:\Users\Mutia Chairunisa\source\repos\Program Client\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.exe
+C:\Users\Mutia Chairunisa\source\repos\Program Client\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.pdb
+C:\Users\Mutia Chairunisa\source\repos\Program Client\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csprojResolveAssemblyReference.cache
+C:\Users\Mutia Chairunisa\source\repos\Program Client\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Form1.resources
+C:\Users\Mutia Chairunisa\source\repos\Program Client\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Properties.Resources.resources
+C:\Users\Mutia Chairunisa\source\repos\Program Client\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.GenerateResource.Cache
+C:\Users\Mutia Chairunisa\source\repos\Program Client\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.CoreCompileInputs.cache
+C:\Users\Mutia Chairunisa\source\repos\Program Client\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.exe
+C:\Users\Mutia Chairunisa\source\repos\Program Client\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.pdb
+C:\Users\Mutia\Downloads\repos\repos\Program Client\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.exe.config
+C:\Users\Mutia\Downloads\repos\repos\Program Client\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.exe
+C:\Users\Mutia\Downloads\repos\repos\Program Client\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.pdb
+C:\Users\Mutia\Downloads\repos\repos\Program Client\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csprojAssemblyReference.cache
+C:\Users\Mutia\Downloads\repos\repos\Program Client\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Form1.resources
+C:\Users\Mutia\Downloads\repos\repos\Program Client\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Properties.Resources.resources
+C:\Users\Mutia\Downloads\repos\repos\Program Client\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.GenerateResource.cache
+C:\Users\Mutia\Downloads\repos\repos\Program Client\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.CoreCompileInputs.cache
+C:\Users\Mutia\Downloads\repos\repos\Program Client\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.exe
+C:\Users\Mutia\Downloads\repos\repos\Program Client\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.pdb

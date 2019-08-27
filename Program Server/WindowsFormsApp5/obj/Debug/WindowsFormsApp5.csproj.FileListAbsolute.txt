@@ -1,0 +1,30 @@
+C:\Users\Mutia Chairunisa\source\repos\WindowsFormsApp5\WindowsFormsApp5\obj\Debug\WindowsFormsApp5.csprojResolveAssemblyReference.cache
+C:\Users\Mutia Chairunisa\source\repos\WindowsFormsApp5\WindowsFormsApp5\obj\Debug\WindowsFormsApp5.Form1.resources
+C:\Users\Mutia Chairunisa\source\repos\WindowsFormsApp5\WindowsFormsApp5\obj\Debug\WindowsFormsApp5.Properties.Resources.resources
+C:\Users\Mutia Chairunisa\source\repos\WindowsFormsApp5\WindowsFormsApp5\obj\Debug\WindowsFormsApp5.csproj.GenerateResource.Cache
+C:\Users\Mutia Chairunisa\source\repos\WindowsFormsApp5\WindowsFormsApp5\obj\Debug\WindowsFormsApp5.csproj.CoreCompileInputs.cache
+C:\Users\Mutia Chairunisa\source\repos\WindowsFormsApp5\WindowsFormsApp5\bin\Debug\WindowsFormsApp5.exe.config
+C:\Users\Mutia Chairunisa\source\repos\WindowsFormsApp5\WindowsFormsApp5\bin\Debug\WindowsFormsApp5.exe
+C:\Users\Mutia Chairunisa\source\repos\WindowsFormsApp5\WindowsFormsApp5\bin\Debug\WindowsFormsApp5.pdb
+C:\Users\Mutia Chairunisa\source\repos\WindowsFormsApp5\WindowsFormsApp5\obj\Debug\WindowsFormsApp5.exe
+C:\Users\Mutia Chairunisa\source\repos\WindowsFormsApp5\WindowsFormsApp5\obj\Debug\WindowsFormsApp5.pdb
+C:\Users\Mutia Chairunisa\source\repos\Program Server\WindowsFormsApp5\bin\Debug\WindowsFormsApp5.exe.config
+C:\Users\Mutia Chairunisa\source\repos\Program Server\WindowsFormsApp5\bin\Debug\WindowsFormsApp5.exe
+C:\Users\Mutia Chairunisa\source\repos\Program Server\WindowsFormsApp5\bin\Debug\WindowsFormsApp5.pdb
+C:\Users\Mutia Chairunisa\source\repos\Program Server\WindowsFormsApp5\obj\Debug\WindowsFormsApp5.csprojResolveAssemblyReference.cache
+C:\Users\Mutia Chairunisa\source\repos\Program Server\WindowsFormsApp5\obj\Debug\WindowsFormsApp5.Form1.resources
+C:\Users\Mutia Chairunisa\source\repos\Program Server\WindowsFormsApp5\obj\Debug\WindowsFormsApp5.Properties.Resources.resources
+C:\Users\Mutia Chairunisa\source\repos\Program Server\WindowsFormsApp5\obj\Debug\WindowsFormsApp5.csproj.GenerateResource.Cache
+C:\Users\Mutia Chairunisa\source\repos\Program Server\WindowsFormsApp5\obj\Debug\WindowsFormsApp5.csproj.CoreCompileInputs.cache
+C:\Users\Mutia Chairunisa\source\repos\Program Server\WindowsFormsApp5\obj\Debug\WindowsFormsApp5.exe
+C:\Users\Mutia Chairunisa\source\repos\Program Server\WindowsFormsApp5\obj\Debug\WindowsFormsApp5.pdb
+C:\Users\Mutia\Downloads\repos\repos\Program Server\WindowsFormsApp5\bin\Debug\WindowsFormsApp5.exe.config
+C:\Users\Mutia\Downloads\repos\repos\Program Server\WindowsFormsApp5\bin\Debug\WindowsFormsApp5.exe
+C:\Users\Mutia\Downloads\repos\repos\Program Server\WindowsFormsApp5\bin\Debug\WindowsFormsApp5.pdb
+C:\Users\Mutia\Downloads\repos\repos\Program Server\WindowsFormsApp5\obj\Debug\WindowsFormsApp5.csprojAssemblyReference.cache
+C:\Users\Mutia\Downloads\repos\repos\Program Server\WindowsFormsApp5\obj\Debug\WindowsFormsApp5.Form1.resources
+C:\Users\Mutia\Downloads\repos\repos\Program Server\WindowsFormsApp5\obj\Debug\WindowsFormsApp5.Properties.Resources.resources
+C:\Users\Mutia\Downloads\repos\repos\Program Server\WindowsFormsApp5\obj\Debug\WindowsFormsApp5.csproj.GenerateResource.cache
+C:\Users\Mutia\Downloads\repos\repos\Program Server\WindowsFormsApp5\obj\Debug\WindowsFormsApp5.csproj.CoreCompileInputs.cache
+C:\Users\Mutia\Downloads\repos\repos\Program Server\WindowsFormsApp5\obj\Debug\WindowsFormsApp5.exe
+C:\Users\Mutia\Downloads\repos\repos\Program Server\WindowsFormsApp5\obj\Debug\WindowsFormsApp5.pdb
